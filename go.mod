@@ -1,4 +1,4 @@
-module gitkit
+module github.com/chrisheckey/gitkit
 
 go 1.18
 
